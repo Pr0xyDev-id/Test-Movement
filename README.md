@@ -9,4 +9,4 @@
 - **Download this repo**
 - **Run**</br>
 ---
-# TY FOR [Moo ICT](https://www.youtube.com/watch?v=RgDYvSEoWDI) 
+# TY [Moo ICT](https://www.youtube.com/watch?v=RgDYvSEoWDI) FOR MOVEMENT ARROW KEYS
