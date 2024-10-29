@@ -1,7 +1,7 @@
 # Test Movement
 ---
 ## Features ; </br>
-- **WASD movement**</br>
+- **Arrow Keys movement**</br>
 
 ## How to use ? </br>
 - **Install Visual Studio**
