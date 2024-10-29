@@ -1,0 +1,10 @@
+C:\Users\n0th1ng\source\repos\Test Movement Game 2D\bin\Debug\Test Movement Game 2D.exe.config
+C:\Users\n0th1ng\source\repos\Test Movement Game 2D\bin\Debug\Test Movement Game 2D.exe
+C:\Users\n0th1ng\source\repos\Test Movement Game 2D\bin\Debug\Test Movement Game 2D.pdb
+C:\Users\n0th1ng\source\repos\Test Movement Game 2D\obj\Debug\Test Movement Game 2D.csproj.AssemblyReference.cache
+C:\Users\n0th1ng\source\repos\Test Movement Game 2D\obj\Debug\Test_Movement_Game_2D.Form1.resources
+C:\Users\n0th1ng\source\repos\Test Movement Game 2D\obj\Debug\Test_Movement_Game_2D.Properties.Resources.resources
+C:\Users\n0th1ng\source\repos\Test Movement Game 2D\obj\Debug\Test Movement Game 2D.csproj.GenerateResource.cache
+C:\Users\n0th1ng\source\repos\Test Movement Game 2D\obj\Debug\Test Movement Game 2D.csproj.CoreCompileInputs.cache
+C:\Users\n0th1ng\source\repos\Test Movement Game 2D\obj\Debug\Test Movement Game 2D.exe
+C:\Users\n0th1ng\source\repos\Test Movement Game 2D\obj\Debug\Test Movement Game 2D.pdb
