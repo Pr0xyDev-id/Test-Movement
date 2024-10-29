@@ -5,6 +5,6 @@
 
 ## How to use ? </br>
 - **Install Visual Studio**
-- **Install C#**
+- **Install C# (Windows Forms)**
 - **Download this repo**
 - **Run**</br>
